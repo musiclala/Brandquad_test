@@ -1,4 +1,5 @@
 $ git clone git@github.com/USERNAME/{{ project_name }}.git
+
 $ cd project_name
 Activate the virtualenv for your project.
 
